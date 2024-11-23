@@ -1,0 +1,55 @@
+Date: 18/4/2024
+Time: 1:54
+Phone Number: +923128136933
+Message: Hello from Python. This is an instant whatsapp message
+--------------------
+Date: 18/4/2024
+Time: 2:3
+Phone Number: +923128136933
+Message: Hello from Python. This is an instant whatsapp message
+--------------------
+Date: 18/4/2024
+Time: 2:5
+Phone Number: +19044038226
+Message: Hello from Python. This is an instant whatsapp message
+--------------------
+Date: 18/4/2024
+Time: 2:12
+Phone Number: +19044038226
+Message: Hello from Python. This is an instant whatsapp message
+--------------------
+Date: 18/4/2024
+Time: 2:17
+Phone Number: +19044038226
+Message: Hello from Python. This is an instant whatsapp message
+--------------------
+Date: 18/4/2024
+Time: 2:22
+Phone Number: +19044038226
+Message: Hello from Python. This is an instant whatsapp message
+--------------------
+Date: 18/4/2024
+Time: 2:26
+Phone Number: +19044038226
+Message: Hello from Python. This is an instant whatsapp message
+--------------------
+Date: 18/4/2024
+Time: 6:33
+Phone Number: +19044038226
+Message: Hello this is Aayan
+--------------------
+Date: 18/4/2024
+Time: 6:35
+Phone Number: +19044038226
+Message: Hello this is Aayan
+--------------------
+Date: 18/4/2024
+Time: 6:38
+Phone Number: +19044038226
+Message: Hello this is Aayan
+--------------------
+Date: 18/4/2024
+Time: 6:41
+Phone Number: +19044038226
+Message: Hello this is Aayan
+--------------------

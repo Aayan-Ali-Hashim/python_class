@@ -1,0 +1,2 @@
+Print the day name when number is entered
+Find greatest num from 3
